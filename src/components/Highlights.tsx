@@ -2,17 +2,17 @@ import { Camera } from "lucide-react";
 
 const highlights = [
   {
-    image: "src/img/tower.jpg",
+    image: "/images/tower.jpg",
     title: "五稜郭",
     comment: "隙間からタワーが見える",
   },
   {
-    image: "src/img/mt_hakodate.jpg",
+    image: "/images/mt_hakodate.jpg",
     title: "函館山",
     comment: "函館山ってこんな感じ！",
   },
   {
-    image: "src/img/asuka_saka.jpg",
+    image: "/images/asuka_saka.jpg",
     title: "八幡坂",
     comment: "函館のシンボル、ロマンチックな坂道",
   },
